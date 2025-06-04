@@ -1,5 +1,5 @@
 {
-  "name": "my_map_function",
+  "name": "@rodrigo237/my_map_function",
   "version": "1.0.1",
   "description": "This is a custom map function",
   "main": "index.js",

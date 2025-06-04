@@ -1,6 +1,6 @@
 # my_map_function_npm
 
-## Usage to map 
+This a custom map function
 
 ```js
 console.(myMap())
